@@ -52,6 +52,9 @@
                      
      # Sentiment Subjectivity generally refer to personal opinion, emotion or judgment, which lies in the range of [0,1].
      
+     # Translated_Review is short explanation of feedback on App by user after using App.
+
+     
      
  # CONCLUSION 
  
